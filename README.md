@@ -11,7 +11,6 @@ This Java project is designed to help travel agencies maintain their travel pack
 - [Project Structure](#project-structure)
 - [Testing](#testing)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -27,7 +26,7 @@ This project allows travel agencies to manage travel packages, including details
 
 1. **Clone the repository to your local machine:**
     ```bash
-    git clone https://github.com/your-username/travel-agency-project.git
+    git@github.com:SenChiragraj/TravelSystem.git
     ```
 
 2. **Open the project in your preferred IDE.**
