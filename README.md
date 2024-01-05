@@ -49,7 +49,6 @@ This project allows travel agencies to manage travel packages, including details
   - `EnrolledActivity.java`: Represents an activity that a passenger is enrolled in.
   - `StandardPassenger.java`, `GoldPassenger.java`, `PremiumPassenger.java`: Subclasses of `Passenger` with specific behavior.
   - `Main.java`: Sample main class demonstrating project usage.
-- **test:** Contains unit test files.
 
 ## Contributing
 
